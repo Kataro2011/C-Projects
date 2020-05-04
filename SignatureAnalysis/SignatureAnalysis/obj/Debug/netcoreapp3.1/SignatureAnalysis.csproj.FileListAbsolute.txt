@@ -1,0 +1,13 @@
+C:\Users\brode\source\repos\SignatureAnalysis\SignatureAnalysis\bin\Debug\netcoreapp3.1\SignatureAnalysis.exe
+C:\Users\brode\source\repos\SignatureAnalysis\SignatureAnalysis\bin\Debug\netcoreapp3.1\SignatureAnalysis.deps.json
+C:\Users\brode\source\repos\SignatureAnalysis\SignatureAnalysis\bin\Debug\netcoreapp3.1\SignatureAnalysis.runtimeconfig.json
+C:\Users\brode\source\repos\SignatureAnalysis\SignatureAnalysis\bin\Debug\netcoreapp3.1\SignatureAnalysis.runtimeconfig.dev.json
+C:\Users\brode\source\repos\SignatureAnalysis\SignatureAnalysis\bin\Debug\netcoreapp3.1\SignatureAnalysis.dll
+C:\Users\brode\source\repos\SignatureAnalysis\SignatureAnalysis\bin\Debug\netcoreapp3.1\SignatureAnalysis.pdb
+C:\Users\brode\source\repos\SignatureAnalysis\SignatureAnalysis\obj\Debug\netcoreapp3.1\SignatureAnalysis.csprojAssemblyReference.cache
+C:\Users\brode\source\repos\SignatureAnalysis\SignatureAnalysis\obj\Debug\netcoreapp3.1\SignatureAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\brode\source\repos\SignatureAnalysis\SignatureAnalysis\obj\Debug\netcoreapp3.1\SignatureAnalysis.AssemblyInfoInputs.cache
+C:\Users\brode\source\repos\SignatureAnalysis\SignatureAnalysis\obj\Debug\netcoreapp3.1\SignatureAnalysis.AssemblyInfo.cs
+C:\Users\brode\source\repos\SignatureAnalysis\SignatureAnalysis\obj\Debug\netcoreapp3.1\SignatureAnalysis.dll
+C:\Users\brode\source\repos\SignatureAnalysis\SignatureAnalysis\obj\Debug\netcoreapp3.1\SignatureAnalysis.pdb
+C:\Users\brode\source\repos\SignatureAnalysis\SignatureAnalysis\obj\Debug\netcoreapp3.1\SignatureAnalysis.genruntimeconfig.cache
